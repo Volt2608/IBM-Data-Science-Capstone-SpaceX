@@ -116,7 +116,12 @@ IBM-Data-Science-Capstone-SpaceX/
 ├── dashboard/
 │   └── spacex_dash_app.py
 │
-├── datasets/
+├── data/
+│   ├── dataset_part_1.csv
+│   ├── dataset_part_2.csv
+│   ├── dataset_part_3.csv
+│   ├── spacex_launch_dash.csv
+│   └── spacex_web_scraped.csv
 │
 ├── presentation/
 │   ├── Data Science Capstone Project Report.pdf
